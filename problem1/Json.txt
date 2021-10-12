@@ -1,0 +1,42 @@
+﻿
+//A
+
+{
+   "NAME":"The Winston",
+   "Menu":"Chambongs",
+   "Location":"Main Street"
+}
+
+//B
+
+{
+   "NAME":"The Winston",
+   "Menu":[
+      "Sooner Swirl",
+      "Cheese Fries",
+      "Margarita"
+   ],
+   "Location":"Classen Blvd"
+}
+
+
+//C
+
+{
+   "Restaurants":[
+      {
+         "NAME":"The Winston",
+         "Menu":"Chambongs",
+         "Location":"Main Street"
+      },
+      {
+         "NAME":"The Winston",
+         "Menu":[
+            "Sooner Swirl",
+            "Cheese Fries",
+            "Margarita"
+         ],
+         "Location":"Classen Blvd"
+      }
+   ]
+}
